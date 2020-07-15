@@ -1,0 +1,15 @@
+{
+  "name": "magic-memo",
+  "version": "1.0.0-rc1",
+  "description": "A modern memoisation library that supports async/await and Promises",
+  "main": "dist/Memoize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robbie Cook <robbie@robbie.pw>",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  }
+}
