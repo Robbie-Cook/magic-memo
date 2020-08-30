@@ -12,6 +12,9 @@
   "author": "Robbie Cook <robbie@robbie.pw>",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.3.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.6"
   }
