@@ -10,6 +10,10 @@
     "prepublishOnly": "npm run test && npm run build"
   },
   "author": "Robbie Cook <robbie@robbie.pw>",
+  "repository": {
+    "url": "https://github.com/Robbie-Cook/magic-memo"
+  },
+  "keywords": ["typescript", "memo", "memoization", "magic-memo"],
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^26.0.10",
