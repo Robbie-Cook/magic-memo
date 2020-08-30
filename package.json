@@ -1,6 +1,6 @@
 {
   "name": "magic-memo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A modern memoisation library that supports async/await and Promises",
   "main": "dist/Memoize.js",
   "scripts": {
