@@ -4,7 +4,10 @@
   "description": "A modern memoisation library that supports async/await and Promises",
   "main": "dist/Memoize.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --watch",
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
   },
   "author": "Robbie Cook <robbie@robbie.pw>",
   "license": "ISC",
