@@ -17,7 +17,7 @@ import Memo from "magic-memo";
 or
 
 ```typescript
-const Memo = require("magic-memo");
+const Memo = require("magic-memo").default;
 ```
 
 ## Calling
